@@ -33,7 +33,7 @@ const Rightheader = ({logclose,logoutuser}) => {
                 }
                 <Divider style={{width:"100%",marginLeft:"-20px"}} />
                 <br />
-                <div className="flag" style={{flexDirection:"column",marginLeft:"-150px"}}>
+               <div className="flag" style={{flexDirection:"column",marginLeft:"-150px"}}>
                 <NavLink to="/">Settings</NavLink>
                 <NavLink to="/register">Sign-Up</NavLink>
             </div>
